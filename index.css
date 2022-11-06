@@ -1,0 +1,128 @@
+body{
+
+    color: #383f3f;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+}
+h1,h2{
+    
+    color: #66BFBF;
+    font-size: 2.5rem;
+}
+h3{
+    color: #66BFBF;
+}
+
+.w1{
+    margin-left: 30rem;
+    color: #66BFBF;
+    font-size: 90px;
+    font-family:  Sacramento;
+}
+.w2{
+
+    margin-left: 45rem;
+    color: #66BFBF;
+    font-size: 80px;
+    font-family:  Sacramento;
+}
+.container1{
+    background-color: #EAF6F6;
+    height: 54rem;
+    width: 95rem;
+    
+}
+
+#cloud1{
+    height: 5rem;
+    position: relative;
+    left: 50rem;
+    top: 2rem;
+}
+#cloud2{
+    height: 6rem;
+    position: relative;
+    bottom: 20rem;
+    left: 27rem;
+}
+    
+.mountain{
+   position: relative;
+    
+    height: 23rem;
+    width: 60rem;
+}
+
+.container2{
+text-align: center;
+}
+.profile-photo{
+   
+    height: 10rem;
+    margin-top: 100px;
+   
+}
+hr{
+   width: 6rem;
+   border-top: 1rem dotted gray;
+   border-bottom: transparent;
+   border-left: transparent;
+   border-right: transparent;
+   height: 3rem;
+   margin-top: 3rem;
+   
+}
+.middle-container{
+    text-align: center;
+}
+.skills{
+    line-height: 2;
+}
+.skills-icon{
+    float: left;
+    padding-left: 18%;
+    height: 10rem;
+}
+
+.Web-development-icon{
+    float: right;
+    padding-right: 20rem;
+    height: 10rem;
+}
+.bottom-container{
+    text-align: center;
+}
+.skills-hr{
+    border :transparent ;
+    height: 3rem;
+}
+.skill-row{
+    width: 50%;
+    text-align: left;
+    padding-left: 15%;
+}
+.skill-row2{
+    text-align: left;
+    width: 60%;
+    padding-left: 37%;
+}
+.explain1{
+    padding-left: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
